@@ -1,0 +1,35 @@
+﻿LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+X:\Studium\Wintersemester23_24\Spielekonsolenprogrammierung\RubiksCube\FinalCube.cpp(154): warning C4715: 'FinalCube::GetRotationMatrix': not all control paths return a value
+  All 767 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+glew32s.lib(glew.obj) : warning LNK4099: PDB '' was not found with 'glew32s.lib(glew.obj)' or at ''; linking object as if no debug info
+LINK : warning LNK4286: symbol '__glewDeleteBuffers' defined in 'glew32s.lib(glew.obj)' is imported by 'CubieRenderer.obj'
+LINK : warning LNK4286: symbol '__glewGenBuffers' defined in 'glew32s.lib(glew.obj)' is imported by 'CubieRenderer.obj'
+LINK : warning LNK4286: symbol '__glewUniformMatrix4fv' defined in 'glew32s.lib(glew.obj)' is imported by 'CubieRenderer.obj'
+LINK : warning LNK4286: symbol '__glewGenVertexArrays' defined in 'glew32s.lib(glew.obj)' is imported by 'CubieRenderer.obj'
+LINK : warning LNK4286: symbol '__glewDeleteProgram' defined in 'glew32s.lib(glew.obj)' is imported by 'CubieRenderer.obj'
+LINK : warning LNK4286: symbol '__glewBufferData' defined in 'glew32s.lib(glew.obj)' is imported by 'CubieRenderer.obj'
+LINK : warning LNK4286: symbol '__glewGetUniformLocation' defined in 'glew32s.lib(glew.obj)' is imported by 'CubieRenderer.obj'
+LINK : warning LNK4286: symbol '__glewDeleteVertexArrays' defined in 'glew32s.lib(glew.obj)' is imported by 'CubieRenderer.obj'
+LINK : warning LNK4286: symbol '__glewBindBuffer' defined in 'glew32s.lib(glew.obj)' is imported by 'CubieRenderer.obj'
+LINK : warning LNK4286: symbol '__glewVertexAttribPointer' defined in 'glew32s.lib(glew.obj)' is imported by 'CubieRenderer.obj'
+LINK : warning LNK4286: symbol '__glewUseProgram' defined in 'glew32s.lib(glew.obj)' is imported by 'CubieRenderer.obj'
+LINK : warning LNK4286: symbol '__glewBindVertexArray' defined in 'glew32s.lib(glew.obj)' is imported by 'CubieRenderer.obj'
+LINK : warning LNK4286: symbol '__glewEnableVertexAttribArray' defined in 'glew32s.lib(glew.obj)' is imported by 'CubieRenderer.obj'
+LINK : warning LNK4286: symbol '__glewLinkProgram' defined in 'glew32s.lib(glew.obj)' is imported by 'ShaderUtil.obj'
+LINK : warning LNK4286: symbol '__glewDeleteShader' defined in 'glew32s.lib(glew.obj)' is imported by 'ShaderUtil.obj'
+LINK : warning LNK4286: symbol '__glewGetProgramInfoLog' defined in 'glew32s.lib(glew.obj)' is imported by 'ShaderUtil.obj'
+LINK : warning LNK4286: symbol '__glewShaderSource' defined in 'glew32s.lib(glew.obj)' is imported by 'ShaderUtil.obj'
+LINK : warning LNK4286: symbol '__glewAttachShader' defined in 'glew32s.lib(glew.obj)' is imported by 'ShaderUtil.obj'
+LINK : warning LNK4286: symbol '__glewGetProgramiv' defined in 'glew32s.lib(glew.obj)' is imported by 'ShaderUtil.obj'
+LINK : warning LNK4286: symbol '__glewGetShaderInfoLog' defined in 'glew32s.lib(glew.obj)' is imported by 'ShaderUtil.obj'
+LINK : warning LNK4286: symbol '__glewCreateProgram' defined in 'glew32s.lib(glew.obj)' is imported by 'ShaderUtil.obj'
+LINK : warning LNK4286: symbol '__glewCreateShader' defined in 'glew32s.lib(glew.obj)' is imported by 'ShaderUtil.obj'
+LINK : warning LNK4286: symbol '__glewCompileShader' defined in 'glew32s.lib(glew.obj)' is imported by 'ShaderUtil.obj'
+LINK : warning LNK4286: symbol '__glewGetShaderiv' defined in 'glew32s.lib(glew.obj)' is imported by 'ShaderUtil.obj'
+LINK : warning LNK4286: symbol '__glewGenerateMipmap' defined in 'glew32s.lib(glew.obj)' is imported by 'TestTexture.obj'
+LINK : warning LNK4286: symbol '__glewActiveTexture' defined in 'glew32s.lib(glew.obj)' is imported by 'TestTexture.obj'
+  RubiksCube.vcxproj -> X:\Studium\Wintersemester23_24\Spielekonsolenprogrammierung\RubiksCube\x64\Release\RubiksCube.exe

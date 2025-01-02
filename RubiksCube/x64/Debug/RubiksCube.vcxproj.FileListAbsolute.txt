@@ -1,0 +1,3 @@
+X:\Studium\Wintersemester23_24\Spielekonsolenprogrammierung\RubiksCube\RubiksCube\x64\Debug\RubiksCube.exe
+X:\Studium\Wintersemester23_24\Spielekonsolenprogrammierung\RubiksCube\x64\Debug\RubiksCube.exe
+C:\Users\User\Desktop\Wintersemester23_24\Spielekonsolenprogrammierung\RubiksCube\x64\Debug\RubiksCube.exe
